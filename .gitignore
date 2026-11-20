@@ -1,0 +1,13 @@
+/Kodachrome/
+/That Was Shakespeare - Fringe/
+/That Was Shakespeare - Full/
+/All the Worlds A Song/
+/Love and Misdirection/
+/*.jpg
+/*.jpeg
+/*.JPG
+/*.pdf
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
