@@ -45,7 +45,7 @@ const productions = [
       photo("fringe-23", "That Was Shakespeare / Beatrice", "An intimate two-shot of Beatrice and her scene partner"),
     ],
     review: {
-      quote: "Shout out to the young women doing Beatrice &hellip; she was excellent. they get an extra .5 kitty just for her!",
+      quote: "Shout out to the young woman doing Beatrice &hellip; she was excellent. they get an extra .5 kitty just for her!",
       author: "Kelly Smeltzer",
       publication: "Minnesota Fringe audience review",
     },
@@ -306,7 +306,7 @@ function resume() {
         </div>
         <div class="training-grid">
           <div><h3 class="resume-category">Education &amp; training</h3><p><strong>B.A. in Dramatic Arts</strong><br>Tufts University</p><p>Selected acting coursework: Acting and Shakespeare<br>Tufts University</p><p>Voice &mdash; Private study, including Dan Smith</p></div>
-          <div><h3 class="resume-category">Special skills</h3><ul class="skills-list"><li>British dialect (general)</li><li>Soprano II</li><li>French and Tagalog (basic conversational)</li></ul></div>
+          <div><h3 class="resume-category">Special skills</h3><ul class="skills-list"><li>British dialect (general)</li><li>Soprano II</li><li>French and Tagalog (basic conversational)</li><li>Intimacy Training (TIE Best Practices)</li></ul></div>
         </div>
       </div>
     </section>`;
